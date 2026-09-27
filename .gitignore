@@ -1,0 +1,11 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+
+# Local environment files and credentials
+.env
+.env.local
+.env.*.local
+
+# TypeScript build information
+*.tsbuildinfo
